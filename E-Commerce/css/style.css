@@ -1,0 +1,42 @@
+*{
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 40%;
+    box-shadow: 0 0 10px silver;
+    margin-top: 60px;
+    padding: 10px;
+}
+input{
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    border: none;
+    padding: 10px;
+    width: 38%;
+    font-weight: bold;
+    font-size: 1.1rem;
+    background-color: green;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+label{
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.1rem;
+    background-color: #1f67cf;
+    color: white;
+}
+a{
+    text-decoration: none;
+    font-size: 1.3rem;
+}
